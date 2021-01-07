@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 - AWS: S3, Athena, SQS, SNS, EC2
 - Domain Driven Design / Design Patterns
 
+
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=manjufy&amp;show_icons=true" alt="GitHub Stats">
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjufy&layout=compact)](https://github.com/iamkatelim/github-readme-stats)
+
+
