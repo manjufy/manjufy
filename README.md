@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 
 ## My Skills
 
-- JavaScript / Node.js / NestJS/ Moleculer / Vue
-- PHP / Laravel
+- JavaScript / Node.js / NestJS/ Moleculer / Vue / NuxtJs
+- PHP / Laravel / Symfony / CodeIgniter / Yii
 - Erlang / Elixir / Phoenix
 - Solr / Elasticsearch
 - MySQL / MSSQL / Redis / MongoDB / PostgresSQL
-- AWS: S3, Athena, SQS, SNS, EC2
+- AWS: S3, Lambda, Athena, SQS, SNS, EC2, Route53, ECS, Fargate
 - Domain Driven Design / Design Patterns
 
 
