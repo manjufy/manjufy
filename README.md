@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - AWS: S3, Lambda, Athena, SQS, SNS, EC2, Route53, ECS, Fargate
 - Domain Driven Design / Design Patterns
 
-
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=manjufy&amp;show_icons=true" alt="GitHub Stats">
 <br><br>
