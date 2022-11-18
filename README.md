@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full stack developer based in Kuala Lumpur, Malaysia.
+I'm a Full stack lead developer based in Hamburg, Germany.
 
 Here are some ideas to get you started:
 
